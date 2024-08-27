@@ -1,0 +1,5 @@
+name = input("name : ")
+age = int(input("age : "))
+city = input("city : ")
+print(f"{name} is {age} years old.")
+print(f"{name} lives in {city}.")

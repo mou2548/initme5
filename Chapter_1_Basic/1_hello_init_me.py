@@ -1,0 +1,6 @@
+name = input("What is your name : ")
+print("Hello, everyone. Nice to meet you all!")
+print("My name is", name)
+print(name + " is an engineering student.")
+print("Now " + name + " really wants to write python!")
+print("Thank You")

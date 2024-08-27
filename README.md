@@ -1,2 +1,2 @@
-# initme5
-Solution(s) to INIT ME #5 Problems
+# Solution(s) to INIT ME #5 Problems
+## By me :D
