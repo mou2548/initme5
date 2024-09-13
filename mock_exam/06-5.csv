@@ -1,0 +1,33 @@
+Name,Age,Disease,RiskPlan,RiskAmount
+Alex Turner,25,HIV,No,-
+Ben Harris,80,Cancer,Yes,19
+Charlie White,30,Alzheimer's,No,-
+
+
+Daniel Brown,7,SLE,No,-
+Eric Green,42,Cancer,No,-
+Fiona Miller,66,Alzheimer's,Yes,23
+
+
+Gabriel Smith,1000,SLE,No,-
+Hannah Jones,3.14159,HIV,Yes,15
+Ivy Carter,200,Cancer,No,-
+Jack Davis,35,Alzheimer's,Yes,17
+
+
+Kelly Lee,48,SLE,No,-
+Liam Thompson,21,HIV,Yes,12
+Maria Martinez,57,Cancer,No,-
+Noah Wilson,10000,Alzheimer's,Yes,25
+
+
+Olivia Adams,42,SLE,No,-
+Penny Evans,27,HIV,Yes,18
+Quentin Green,19,Cancer,No,-
+
+
+
+
+Rachel Brown,33,Alzheimer's,Yes,13
+Samuel White,16,SLE,No,-
+Thomas Harris,2049,HIV,Yes,14

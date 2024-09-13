@@ -4,4 +4,7 @@ for i in range(2, round(n**0.5)+1):
         print(f"{n} is not a Prime Number")
         break
 else:
-    print(f"{n} is a Prime Number")
+    if n == 1:
+        print(f"{n} is not a Prime Number")
+    else:
+        print(f"{n} is a Prime Number")
